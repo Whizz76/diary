@@ -1,0 +1,21 @@
+#nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: #7B1B56!important;
+    color: white!important;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid lightcoral;
+    padding: 8px;
+    box-shadow: 1px 1px 100px inset lightcoral;
+  
+}
+
+#nav div{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+
+}
+#nav div:hover{
+   font-weight: bolder;
+}

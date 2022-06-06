@@ -1,0 +1,45 @@
+.navbar{
+    background-color: #7B1B56;
+    box-shadow: 1px 1px 100px inset rgb(252, 195, 195);
+}
+.nav-link,.navbar-brand{
+    color: #7B1B56;
+    font-weight: bolder;
+    margin-right: 40px;
+    transition: 0.3s;
+    
+}
+.navbar-brand{
+    margin-left: 20px;
+}
+.navbar-collapse{
+    background-color:rgb(246, 217, 217);
+    text-align: center;
+    
+}
+.show a{
+    margin-right: 0;
+}
+nav{
+    height: 60px;
+}
+.nav-link{
+    font-family: 'Overlock', cursive;
+    font-size: 120%;
+}
+.navbar-brand{
+    font-family: 'Paprika', cursive;
+    font-size: 150%;
+}
+.navbar-toggler{
+    border:2px solid #7B1B56;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.navbar-toggler:hover{
+    border:2px solid #7B1B56;
+}
+.nav-link:hover{
+   background-color: #f7b7de;
+  
+}
